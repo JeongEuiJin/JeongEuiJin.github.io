@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "How to aws setting"
+date:   2017-06-29 22:19:50 +0900
+categories: jekyll update
+---
 
 #AWS 생성 하기
 1. 일단 가입부터
